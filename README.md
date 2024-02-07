@@ -14,6 +14,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     HTML5
     CSS custom properties
 
+## Comment
+    Please, feel free to give any feedback. As a web dev newbie, I'd appreciate it. Thanks!
+
 ## Attribution
 
     Challenge by: Frontend Mentor [https://www.frontendmentor.io/c]
